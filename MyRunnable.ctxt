@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyRunnable
+comment0.text=\r\n\ MyRunnable\ will\ count\ the\ sum\ of\ the\ number\ from\ 1\ to\ the\ parameter\r\n\ countUntil\ and\ then\ write\ the\ result\ to\ the\ console.\r\n\ <p>\r\n\ MyRunnable\ is\ the\ task\ which\ will\ be\ performed\r\n\r\n\ @author\ Lars\ Vogel\r\n\r\n
+comment1.params=countUntil
+comment1.target=MyRunnable(long)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
